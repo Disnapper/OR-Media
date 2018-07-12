@@ -1,0 +1,148 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.front-end{
+  background-image: url(img/frontend-bg_image.jpg);
+}
+header{
+height: 60px;
+background-color: rgba(74, 118, 168,.3);
+ box-shadow: 0 0 20px rgba(0,0,0,0.9);
+width: 100%;
+}
+.section-about{
+height: 1010px; 
+width: 100%;
+ background-color: #4a76a8;
+ background-size: cover;
+}
+.section-vk{
+background-image: url(../img/section-vk-bg.jpg);
+background-size: cover;
+height: 1104px;
+}
+.section-fb{
+background-image: url(../img/section-fb-bg.jpg);
+background-size: cover;
+height: 737px;
+}
+.section-inst{
+  background-image: url(../img/section-inst-bg.jpg);
+background-size: cover;
+height: 1257px;
+}
+.section-ok{
+    background-image: url(../img/section-ok-bg.jpg);
+background-size: cover;
+height: 1032px;
+}
+.section-frontend{
+    background-image: url(../img/section-frontend-bg.jpg);
+    background-size: cover;
+height: 1144px;
+}
+.section-marketing{
+    background-image: url(../img/section-marketing-bg.jpg);
+background-size: cover;
+height: 1301px;
+}
+.footer{
+    background-image: url(../img/section-footer-bg.jpg);
+background-size: cover;
+height: 1200px;
+}
+.row{
+ 
+  text-align: center;
+}
+.header-text {
+  margin-top: 10px;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 1.4vw;
+  color: #000;
+}
+header .col :hover{
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.slider {
+  font-size: 1em;
+      transform: translateY(-50px);
+}
+.slider img{
+  height: 5em;
+  width: auto;
+}
+.iphone-mockup{
+padding-top: 100px;
+display: block;
+max-width: 100%;
+   
+}
+.palka{
+ padding-top: 100px;
+ 
+
+max-width: 100%;
+
+}
+.palka-block{
+  text-align: center;
+}
+
+
+
+.about-company{
+  text-align: -webkit-left;
+   padding-top: 80px;
+   font-family: "Montserrat";
+   font-weight: 500;
+   font-size: 1.3vw;
+   line-height: 50px;
+   color: white;
+}
+.fact-number{
+   font-family: "Montserrat";
+   font-weight: 900;
+   color: white;
+   font-size: 2.6vw;
+}
+.fact-text{
+  text-align: center; 
+     font-family: "Montserrat";
+     font-weight: 600;
+     color: white;
+     font-size: 1.3vw;
+}
+
+
+.vk-title{
+  padding-top: 60px;
+  text-align: center;
+}
+.vk-logo{
+  padding-top: 30px;
+    padding-left: 100px;
+}
+.vk-title-p{
+    text-align: center;
+font-family: "Montserrat";
+font-weight: 700;
+font-size: 2vw;
+color: white;
+}
+.vk-info{
+    padding-top: 120px;
+}
+.vk-icons{
+  padding-top: 100px;
+}
+.vk-info p{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 36px;
+  color: white;
+}
